@@ -1,0 +1,15 @@
+[
+    
+    {"todoTitle": "goto gym","dueDate": "07-08-2025","status": "pending","completedDate": ""},
+
+    
+    {"todoTitle": "watch movie","dueDate": "","status": "","completedDate": ""},
+
+
+    {
+        "todoTitle": "play cricket",
+        "dueDate": "",
+        "status": "",
+        "completedDate": ""
+    }
+]
